@@ -1,0 +1,20 @@
+
+numero = int(input("Informe um número: "))
+
+#operador % retorna o restante de uma divisão
+
+resultado = int(numero % 2)
+
+print("Se o resultado for 0 é par e se caso for 1 é ímpar, o resultado é:", resultado)
+input("Ops. assim ficou ruim... assim fica melhor")
+
+
+# if e usado para tomada de decisão
+# comparação de igualdade no if sempre com ==
+
+    if resultado == 0;
+        resultado: "O número é par"
+        
+        else:
+        resultado = "O numero é impar"
+            print(resultado)
